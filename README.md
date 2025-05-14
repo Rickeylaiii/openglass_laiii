@@ -1,23 +1,12 @@
-## ℹ️ 🔴 We moved this project to [Omi repository](https://github.com/BasedHardware/Omi). Current repo isn't supported anymore =>
 
 # OpenGlass - Open Source Smart Glasses
-
-Turn any glasses into hackable smart glasses with less than $25 of off-the-shelf components. Record your life, remember people you meet, identify objects, translate text, and more.
-
-![OpenGlass](https://github.com/BasedHardware/OpenGlass/assets/43514161/2fdc9d9d-2206-455c-ba60-10dbd6fb3dfb)
+<img width="960" alt="e36153d7c1b2b4d038c77925545af70" src="https://github.com/user-attachments/assets/2266bd33-c75e-4bf6-b0ee-28303851ecd1" />
+<img width="960" alt="2e30e311aa20bdd607ed80563f54f28" src="https://github.com/user-attachments/assets/7c3f56ff-57f3-4c24-a3dd-41273da11fda" />
 
 
-## Video Demo
+https://github.com/user-attachments/assets/0e0ec7c8-bd7d-4293-b472-910b4cd11e29
 
-[![OpenGlass Demo](https://img.youtube.com/vi/DsM_-c2e1ew/0.jpg)](https://youtu.be/DsM_-c2e1ew)
 
-## Want a Pre-built Version?
-
-We will ship a limited number of pre-built kits. Fill out the [interest form](https://basedhardware.com/openglass) to get notified.
-
-## Community
-
-Join the [Based Hardware Discord](https://discord.com/invite/ZutWMTJnwA) for setup questions, contribution guide, and more.
 
 ## Getting Started
 
