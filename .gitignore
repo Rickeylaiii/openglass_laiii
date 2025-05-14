@@ -1,0 +1,8 @@
+node_modules
+build
+dist
+.expo
+.env
+.vscode
+.env.template
+sources/keys.ts
