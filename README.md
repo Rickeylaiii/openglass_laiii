@@ -1,12 +1,10 @@
 
 # OpenGlass - Open Source Smart Glasses
+
 <img width="960" alt="e36153d7c1b2b4d038c77925545af70" src="https://github.com/user-attachments/assets/2266bd33-c75e-4bf6-b0ee-28303851ecd1" />
 <img width="960" alt="2e30e311aa20bdd607ed80563f54f28" src="https://github.com/user-attachments/assets/7c3f56ff-57f3-4c24-a3dd-41273da11fda" />
 
-
-https://github.com/user-attachments/assets/0e0ec7c8-bd7d-4293-b472-910b4cd11e29
-
-
+<https://github.com/user-attachments/assets/0e0ec7c8-bd7d-4293-b472-910b4cd11e29>
 
 ## Getting Started
 
@@ -42,28 +40,32 @@ Follow these steps to set up OpenGlass:
 ### Software
 
 1. Clone the OpenGlass repository and install the dependencies:
+
    ```
-   git clone https://github.com/BasedHardware/openglass.git
-   cd openglass
+   https://github.com/Rickeylaiii/openglass_laiii.git
+   cd openglass_laiii
    npm install
    ```
+
    You can also use **yarn** to install, by doing
+
    ```
    yarn install
    ```
 
 3. Add API keys for Groq and OpenAI in the `keys.ts` file located at [https://github.com/BasedHardware/OpenGlass/blob/main/sources/keys.ts](https://github.com/BasedHardware/OpenGlass/blob/main/sources/keys.ts).
 
-4. For Ollama, self-host the REST API from the repository at [https://github.com/ollama/ollama](https://github.com/ollama/ollama) and add the URL to the `keys.ts` file. The URL should be http://localhost:11434/api/chat
+4. For Ollama, self-host the REST API from the repository at [https://github.com/ollama/ollama](https://github.com/ollama/ollama) and add the URL to the `keys.ts` file. The URL should be <http://localhost:11434/api/chat>
 5. go to terminal and type "ollama pull moondream:1.8b-v2-fp16"
 
-
 6. Start the application:
+
    ```
    npm start
    ```
 
    If using **yarn** start the application with
+
    ```
    yarn start
    ```
