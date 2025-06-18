@@ -43,8 +43,8 @@ Follow these steps to set up OpenGlass:
 
 1. Clone the OpenGlass repository and install the dependencies:
    ```
-   git clone https://github.com/BasedHardware/openglass.git
-   cd openglass
+   git clone https://github.com/Rickeylaiii/openglass_laiii.git
+   cd openglass_laiii
    npm install
    ```
    You can also use **yarn** to install, by doing
@@ -52,7 +52,7 @@ Follow these steps to set up OpenGlass:
    yarn install
    ```
 
-3. Add API keys for Groq and OpenAI in the `keys.ts` file located at [https://github.com/BasedHardware/OpenGlass/blob/main/sources/keys.ts](https://github.com/BasedHardware/OpenGlass/blob/main/sources/keys.ts).
+3. Add API keys for Groq and OpenAI in the `keys.ts` file.
 
 4. For Ollama, self-host the REST API from the repository at [https://github.com/ollama/ollama](https://github.com/ollama/ollama) and add the URL to the `keys.ts` file. The URL should be http://localhost:11434/api/chat
 5. go to terminal and type "ollama pull moondream:1.8b-v2-fp16"
@@ -69,9 +69,3 @@ Follow these steps to set up OpenGlass:
    ```
 
    Note: This is an Expo project. For now, open the localhost link (this will appear after completing step 5) to access the web version.
-
-## License
-
-This project is licensed under the MIT License.
-
-## [ℹ️ 🔴 We moved this project to Omi repository. Current repo isn't supported anymore =>](https://github.com/BasedHardware/Omi)
