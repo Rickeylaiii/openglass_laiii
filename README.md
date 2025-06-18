@@ -43,7 +43,7 @@ Follow these steps to set up OpenGlass:
 
 1. Clone the OpenGlass repository and install the dependencies:
    ```
-   git clone https://github.com/Rickeylaiii/openglass_laiii.git
+   git clone [https://github.com/Rickeylaiii/openglass_laiii.git](https://github.com/Rickeylaiii/openglass_laiii.git)
    cd openglass_laiii
    npm install
    ```
